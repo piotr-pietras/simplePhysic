@@ -1,0 +1,20 @@
+{
+  "name": "simple-physic-test",
+  "version": "1.0.2",
+  "homepage": "https://github.com/peterooo94/simplePhysic",
+  "description": "implements laws of physic into html<div> elements",
+  "main": "index.js",
+  "bugs": {
+    "url": "https://github.com/peterooo94/simplePhysic/issues",
+    "email": "pietraspiotr94@gmail.com"
+  },
+  "scripts": {
+    "test": "browserify index.js -o simplePhysic-bundle.js"
+  },
+  "author": "peterooo94",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "browserify": "^17.0.0"
+  }
+}

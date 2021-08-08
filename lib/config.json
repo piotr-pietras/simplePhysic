@@ -1,0 +1,7 @@
+{
+    "REFRESH_PERIOD": 40,
+    "CHECK_OBJECTS_COLLISION": true,
+    "CHECK_FRAME_COLLISION": true,
+    "REMOVE_COLLISION": true,
+    "G_FORCE": 9.80665
+}
