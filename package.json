@@ -1,6 +1,6 @@
 {
   "name": "simple-physic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/peterooo94/simplePhysic",
   "description": "implements laws of physic into html<div> elements",
   "main": "index.js",
